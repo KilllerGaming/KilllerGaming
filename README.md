@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gamerkiller01325@gmail.com**
 
-- ⚡ Fun fact **I am a Gamer :)**
+- ⚡ Fun fact **I am a Promfessional Gamer :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
