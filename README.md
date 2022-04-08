@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Killer Gaming</h1>
-<h3 align="center">A Front-End & Back-End Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Alive Bot**
+- 🔭 I’m currently working on **Improving My Web Development Skills**
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 I have learnt **HTML, CSS, JavaScript**
+- 💬 I have learnt **HTML, CSS, JavaScript, Node.js**
 
 - 📫 Reach me on **gamerkiller01325@gmail.com**
 
