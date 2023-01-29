@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Improving My Web Development Skills**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently working on **Droxid**
 
 - 💬 I have learnt **JavaScript, Node.js, React.js, Python**
 
