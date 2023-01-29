@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 I have learnt **HTML, CSS, JavaScript, Node.js, React.js, Python**
+- 💬 I have learnt **JavaScript, Node.js, React.js, Python**
 
 - 📫 Reach me on **gamerkiller01325@gmail.com**
 
